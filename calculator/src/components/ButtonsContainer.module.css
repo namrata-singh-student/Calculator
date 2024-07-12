@@ -1,0 +1,32 @@
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: white;
+  width: 100%;
+  
+}
+.button{
+  width:60px;
+  height: 60px;
+  margin: 3px;
+  background-color: rgb(79, 79, 157);
+  font-size: 16px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.anotherButton{
+  width:125px;
+  height: 60px;
+  margin: 3px;
+  background-color: rgb(79, 79, 157);
+  font-size: 16px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+

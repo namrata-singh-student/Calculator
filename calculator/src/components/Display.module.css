@@ -1,0 +1,10 @@
+.display{
+  margin:10px;
+  width:245px;
+  font-size: 25px;
+  height: 50px;
+  background-color: rgb(26, 24, 24);
+  color: white;
+  border-radius: 4px;
+  /* background-color: rgb(56, 51, 51); */
+}
